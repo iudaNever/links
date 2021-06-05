@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Pompadur;
+    src: url(font/20703.otf);
+}
+h1 {
+    font-family: Pompadur;
+    color:white;
+}
+body {
+  background-color: #1f1f1f;
+  
+}
+
+.avatar {
+    border-radius: 50%;
+    
+}
+
+
+html, body {
+    
+    margin: 0;
+    
+}
